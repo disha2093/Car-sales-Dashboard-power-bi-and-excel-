@@ -72,7 +72,6 @@ This project demonstrates how Power BI dashboards can convert complex datasets i
 Author
 Disha 
 
-<img width="956" height="541" alt="image" src="https://github.com/user-attachments/assets/cd6840ba-21b1-496f-861f-8afe24f224c3" />
 
 
 
