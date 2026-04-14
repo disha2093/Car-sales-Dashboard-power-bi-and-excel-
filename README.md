@@ -1,79 +1,106 @@
-Car Sales Dashboard – Power BI Project
-Project Overview
+# 🚗 Car Sales Dashboard | Power BI  
 
-The Car Sales Dashboard is an interactive data visualization project built using Power BI to analyze car sales performance and uncover key business insights. This dashboard helps track sales trends, company performance, and customer preferences through dynamic charts and visualizations.
+## 🚀 Project Overview  
+The **Car Sales Dashboard** is an interactive data visualization project built using Power BI to analyze sales performance, customer preferences, and business trends in the automotive industry.  
 
-The goal of this project is to transform raw car sales data into meaningful insights that support data-driven decision-making for automotive businesses.
+This dashboard transforms raw sales data into meaningful insights, enabling stakeholders to make informed, data-driven decisions.  
 
-Key Metrics
+---
 
-YTD Total Sales: $371.2M
+## 🎯 Objectives  
+- Analyze overall car sales performance  
+- Track key business KPIs  
+- Identify customer preferences and buying patterns  
+- Compare company and regional performance  
 
-YTD Average Price: $28.0K
+---
 
-YTD Cars Sold: 13.3K
+## 📊 Key Metrics  
+- 💰 **YTD Total Sales:** $371.2M  
+- 💵 **YTD Average Price:** $28.0K  
+- 🚗 **YTD Cars Sold:** 13.3K  
+- 📅 **Monthly Sales (MTD):** $54.28M  
 
-Monthly Total Sales (MTD): $54.28M
+---
 
-These metrics provide a quick overview of overall business performance and growth.
+## 📊 Dashboard Features  
 
-Dashboard Features
+### 📈 Weekly Sales Trend  
+- Tracks fluctuations in sales performance over time  
+- Helps identify growth patterns and demand cycles  
 
-The dashboard includes several interactive visualizations:
+### 🚘 Sales by Body Style  
+- Distribution across car types:  
+  *SUV, Hatchback, Sedan, Passenger, Hardtop*  
+- SUVs contribute a major share of total sales  
 
-Weekly Sales Trend: Displays changes in sales performance across weeks to identify growth patterns and fluctuations.
+### 🎨 Sales by Color  
+- Customer preferences for car colors  
+- Popular choices include:  
+  *Pale White, Black, Red*  
 
-Sales by Body Style: Shows distribution of sales across different car types such as SUV, Hatchback, Sedan, Passenger, and Hardtop.
+### 🌍 Dealer Region Analysis  
+- Geographic distribution of sales  
+- Identifies high-performing regions  
 
-Sales by Color: Highlights customer preferences for car colors such as Pale White, Black, and Red.
+### 🏭 Company-wise Sales Analysis  
+- Comparison of manufacturers based on:  
+  - Total Sales  
+  - Cars Sold  
+  - Average Price  
+  - Contribution %  
 
-Dealer Region Map: A geographic map showing the number of cars sold in different regions.
+---
 
-Company-wise Sales Analysis: Compares car manufacturers based on average price, cars sold, total sales, and percentage contribution.
+## 🎛️ Interactive Features  
+Users can explore the dashboard using dynamic filters:  
+- Body Style  
+- Dealer Name  
+- Transmission  
+- Engine Type  
 
-Interactive Filters
+---
 
-Users can explore the data using dynamic filters for:
+## 🛠️ Tools & Technologies  
+- **Power BI** – Dashboard development  
+- **Power Query** – Data cleaning & transformation  
+- **Data Modeling** – Relationship building  
+- **Data Visualization** – Insight presentation  
 
-Body Style
+---
 
-Dealer Name
+## 🚀 Key Insights  
+- SUVs are the **top-selling category**  
+- Premium-priced cars generate higher revenue despite lower volume  
+- Sales trends show **weekly fluctuations in demand**  
+- Certain regions consistently outperform others in sales  
 
-Transmission
+---
 
-Engine Type
+## 📸 Dashboard Preview  
+![Dashboard Preview 1](https://github.com/user-attachments/assets/7cfe082a-5452-45db-ba4b-4af99ddcfaa9)  
 
-These filters allow deeper exploration and customized analysis.
+---
 
-Tools & Technologies
+## 💡 Key Learnings  
+- Building interactive dashboards using Power BI  
+- Data cleaning and transformation using Power Query  
+- Understanding customer behavior and market trends  
+- Presenting insights through effective data storytelling  
 
-Power BI – Data visualization and dashboard development
+---
 
-Power Query – Data cleaning and transformation
+## 🔮 Future Improvements  
+- Real-time data integration  
+- Predictive analysis for sales forecasting  
+- Enhanced drill-through and advanced analytics  
 
-Data Modeling – Relationship building between datasets
+---
 
-Key Insights
+## 🤝 Connect With Me  
+- 💼 LinkedIn: www.linkedin.com/in/disha-dhingra2003
+- 📧 Email: dishaghingra2003@gmail.com  
 
-SUVs contribute a significant portion of total car sales.
+---
 
-Some companies generate higher revenue due to premium pricing strategies.
-
-Weekly sales trends reveal fluctuations in demand across different periods.
-
-Certain regions have higher car sales compared to others.
-
-Conclusion
-
-This project demonstrates how Power BI dashboards can convert complex datasets into clear and actionable insights, helping businesses monitor performance, understand customer preferences, and make strategic decisions.
-
-⭐ If you like this project, feel free to star the repository.
-
-Author
-Disha 
-
-<img width="956" height="541" alt="image" src="https://github.com/user-attachments/assets/7cfe082a-5452-45db-ba4b-4af99ddcfaa9" />
-
-
-
-<img width="1278" height="720" alt="Screenshot 2026-02-13 231651" src="https://github.com/user-attachments/assets/cfe624fe-432f-4b0f-b232-7747c5ed06e9" /
+⭐ If you found this project useful, consider giving it a star!
